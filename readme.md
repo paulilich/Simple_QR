@@ -2,7 +2,6 @@
 
 A clean, aesthetic, and responsive QR Code Generator designed with absolute minimalism in mind. Built using pure HTML, CSS, and vanilla JavaScript with zero heavy frameworks.
 
-### [**Live Demo: 👉 Click here to open the App**](https://first-qr-code.netlify.app/)
 
 ---
 
